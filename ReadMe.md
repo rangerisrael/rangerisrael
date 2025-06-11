@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ranger Warrior Israel
 
-I'm a passionate and proactive full-stack developer focused on building high-quality web applications using React and Laravel. I thrive on solving complex problems, continuously learning, and delivering clean, testable, and scalable solutions.
+A passionate and proactive problem solver with a strong enthusiasm for technology, driven by continuous learning and a growth mindset. Eager to take on challenges and contribute innovative solutions in a dynamic team environment.
 
 ## 💡 What Drives Me
 
