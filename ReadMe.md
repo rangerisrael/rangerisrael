@@ -1,5 +1,5 @@
 <div style="max-width: 800px;">
-  <img src="./profile.png" alt="About Me Terminal GIF" style="width: 100%; height: 400px;" />
+  <img src="./profiler.png" alt="About Me Terminal GIF" style="width: 100%; height: 400px;" />
 </div>
 
 # 💫 About Me:
