@@ -43,11 +43,6 @@ I’m driven by a deep curiosity for technology and a growth mindset. I enjoy tu
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🧑‍💻 Recent GitHub Activity
-
-![Commits](https://img.shields.io/github/commit-activity/m/rangerisrael/your-repo-name)
-![Last Commit](https://img.shields.io/github/last-commit/rangerisrael/your-repo-name)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=rangerisrael&icon=0&color=0)](https://visitcount.itsvg.in)
