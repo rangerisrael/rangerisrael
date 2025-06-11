@@ -60,8 +60,6 @@ I’m driven by a deep curiosity for technology and a growth mindset. I enjoy tu
   <img src="https://nirzak-streak-stats.vercel.app/?user=rangerisrael&theme=dark&hide_border=true" />
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rangerisrael&theme=github-compact)
-
 [![Ranger israel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rangerisrael&theme=dracula)](https://github.com/rangerisrael/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
