@@ -16,6 +16,10 @@ I’m driven by a deep curiosity for technology and a growth mindset. I enjoy tu
 - Writing reliable and maintainable code with tests
 - Exploring performance optimization, design patterns, and modern development tools
 
+<div>
+    <img src=".terminal.gif" alt="About Me Terminal GIF"/>
+</div>
+
 ## 📫 Let's Connect
 
 <!-- - 🌐 [My Portfolio](https://yourwebsite.com) -->
