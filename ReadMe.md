@@ -22,7 +22,6 @@ I’m driven by a deep curiosity for technology and a growth mindset. I enjoy tu
 <!-- https://www.terminalgif.com/ -->
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/israel-alisoso-b007521b2)
-- 📧 dev.me28@gmail.com/devisrael28@gmail.com
 
 ## 🌐 Socials:
 
