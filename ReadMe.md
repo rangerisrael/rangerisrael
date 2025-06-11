@@ -8,7 +8,7 @@
 
 ## 💡 What Drives Me
 
-I’m driven by a deep curiosity for technology and a growth mindset. I enjoy turning challenges into opportunities to improve and innovate, whether it’s crafting beautiful UIs or architecting robust backend APIs. --> -->
+I’m driven by a deep curiosity for technology and a growth mindset. I enjoy turning challenges into opportunities to improve and innovate, whether it’s crafting beautiful UIs or architecting robust backend APIs. -->
 
 ## 🚀 Projects & Focus
 
