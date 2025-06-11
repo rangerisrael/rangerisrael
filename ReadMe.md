@@ -1,5 +1,5 @@
 <div style="max-width: 800px;">
-  <img src="./3dprofile.webp" alt="About Me Terminal GIF" style="width: 100%; height: 400px;" />
+  <img src="./3dprofile.webp" alt="About Me Terminal GIF" style="width: 100%; " />
 </div>
 
 # 💫 About Me:
