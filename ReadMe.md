@@ -65,7 +65,11 @@ I’m driven by a deep curiosity for technology and a growth mindset. I enjoy tu
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h3 align="center">✍️ Random Dev Quote</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Dev Quote" />
+</p>
 
 ---
 
