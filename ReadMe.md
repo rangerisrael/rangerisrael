@@ -42,9 +42,24 @@ I’m driven by a deep curiosity for technology and a growth mindset. I enjoy tu
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=rangerisrael&show_icons=true&hide_border=false&theme=dark&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=rangerisrael&show_icons=true&hide_border=false&theme=dark&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rangerisrael&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rangerisrael&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rangerisrael&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rangerisrael&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangerisrael&theme=dark&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rangerisrael&theme=dark&hide_border=true" />
+</p>
 
 [![Ranger israel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rangerisrael&theme=dracula)](https://github.com/rangerisrael/github-readme-activity-graph)
 
