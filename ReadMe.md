@@ -39,6 +39,8 @@ I’m driven by a deep curiosity for technology and a growth mindset. I enjoy tu
 ![](https://nirzak-streak-stats.vercel.app/?user=rangerisrael&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rangerisrael&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+[![Ranger israel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rangerisrael&theme=dracula)](https://github.com/rangerisrael/github-readme-activity-graph)
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
