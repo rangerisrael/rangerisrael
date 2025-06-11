@@ -45,7 +45,8 @@ I’m driven by a deep curiosity for technology and a growth mindset. I enjoy tu
 
 ### 🧑‍💻 Recent GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rangerisrael&theme=github-dark)
+![Commits](https://img.shields.io/github/commit-activity/m/rangerisrael/your-repo-name)
+![Last Commit](https://img.shields.io/github/last-commit/rangerisrael/your-repo-name)
 
 ---
 
