@@ -1,12 +1,8 @@
 # 💫 About Me:
 
-# 👋 Hi, I'm Ranger Warrior Israel
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=4A4A4A&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Ranger+Warrior+Israel;A+passionate+and+proactive+problem+solver+with+a+strong+enthusiasm+for+technology;Driven+by+continuous+learning+and+a+growth+mindset.;Eager+to+take+on+challenges+and+contribute+innovative+solutions.;In+a+dynamic+team+environment.)
 
-A passionate and proactive problem solver with a strong enthusiasm for technology, driven by continuous learning and a growth mindset. Eager to take on challenges and contribute innovative solutions in a dynamic team environment.
-
-## 💡 What Drives Me
-
-I’m driven by a deep curiosity for technology and a growth mindset. I enjoy turning challenges into opportunities to improve and innovate, whether it’s crafting beautiful UIs or architecting robust backend APIs.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=4A4A4A&center=true&vCenter=true&width=850&lines=💡+What+Drives+Me;Driven+by+a+deep+curiosity+for+technology+and+a+growth+mindset.;I+enjoy+turning+challenges+into+opportunities+to+improve+and+innovate.;Whether+it’s+crafting+beautiful+UIs+or+architecting+robust+backend+APIs.)
 
 ## 🚀 Projects & Focus
 
